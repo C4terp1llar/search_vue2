@@ -1,0 +1,23 @@
+a{
+  text-decoration: none;
+}
+
+.active-link, .exact-active-link{
+  font-weight: bold;
+}
+
+.active-link:hover{
+  text-decoration: underline;
+}
+
+.active-link{
+  color: orange !important;
+}
+.exact-active-link{
+  color: orangered !important;
+  text-decoration: underline;
+}
+
+.main-container{
+  width: 70%;
+}
